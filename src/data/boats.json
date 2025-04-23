@@ -1,0 +1,8 @@
+[
+  { "tier": 0, "name": "No Boat", "unlocksZone": "deck" },
+  { "tier": 1, "name": "Dinghy", "unlocksZone": "pond" },
+  { "tier": 2, "name": "Rowboat", "unlocksZone": "lake" },
+  { "tier": 3, "name": "Fishing Boat", "unlocksZone": "reef" },
+  { "tier": 4, "name": "Trawler", "unlocksZone": "ocean" },
+  { "tier": 5, "name": "Deep Diver", "unlocksZone": "abyss" }
+]
