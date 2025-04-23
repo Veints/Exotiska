@@ -1,0 +1,8 @@
+[
+  { "id": "deck", "name": "Dockside Deck", "requiredBoat": 0 },
+  { "id": "pond", "name": "Peaceful Pond", "requiredBoat": 1 },
+  { "id": "lake", "name": "Lush Lake", "requiredBoat": 2 },
+  { "id": "reef", "name": "Radiant Reef", "requiredBoat": 3 },
+  { "id": "ocean", "name": "Open Ocean", "requiredBoat": 4 },
+  { "id": "abyss", "name": "Ancient Abyss", "requiredBoat": 5 }
+]
