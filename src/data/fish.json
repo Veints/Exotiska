@@ -1,0 +1,8 @@
+[
+  { "name": "Minnow", "zone": "pond", "rarity": 1, "value": 5 },
+  { "name": "Bass", "zone": "lake", "rarity": 2, "value": 12 },
+  { "name": "Trout", "zone": "lake", "rarity": 3, "value": 20 },
+  { "name": "Snapper", "zone": "reef", "rarity": 4, "value": 35 },
+  { "name": "Tuna", "zone": "ocean", "rarity": 5, "value": 50 },
+  { "name": "Abyssal Eel", "zone": "abyss", "rarity": 6, "value": 100 }
+]
